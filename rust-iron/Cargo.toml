@@ -1,0 +1,11 @@
+[package]
+name = "web-test"
+version = "0.0.1"
+authors = ["Ryan Levick <ryan.levick@gmail.com>"]
+
+[dependencies]
+iron = "0.2.6"
+router = "0.1.0"
+persistent = "0.0.9"
+redis = "0.5.2"
+rustc-serialize = "0.3"

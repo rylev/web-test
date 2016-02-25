@@ -1,0 +1,9 @@
+[package]
+name = "web-test"
+version = "0.0.1"
+authors = ["Ryan Levick <ryan.levick@gmail.com>"]
+
+[dependencies]
+nickel = "0.7.3"
+redis = "0.5.2"
+rustc-serialize = "0.3"
